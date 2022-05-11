@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dinesh
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Computer Science and Engineering at CMR Institute of Technology, Bengaluru
+- 🌱 I’m currently studying Computer Science and Engineering at CMR Institute of Technology, Bengaluru
 
 
 <!---
